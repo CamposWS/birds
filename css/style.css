@@ -1,0 +1,10 @@
+/*Nathaniel Campos - 2018*/
+
+html, body {
+  margin:0;
+  background:#000;
+}
+
+canvas {
+  display:block;
+}
